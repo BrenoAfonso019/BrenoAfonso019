@@ -133,7 +133,6 @@ Cadastro de times e jogadores, registro de resultados e geração automática de
 ### 🔗 CO-OP / REDES
 
 <a href="https://linktr.ee/BrwMc"><img src="https://img.shields.io/badge/Linktree-1a1023?style=for-the-badge&logo=linktree&logoColor=43E55E"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Discord-1a1023?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Roblox-1a1023?style=for-the-badge&logo=roblox&logoColor=ffffff"/></a>
+<a href="https://discord.com/users/857623104515604540"><img src="https://img.shields.io/badge/Discord-1a1023?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
 
 </div>
