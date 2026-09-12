@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=1000&color=B57BFF&center=true&vCenter=true&width=700&lines=BRENO+AFONSO;LVL+2+%2F+3+%E2%80%94+ETEC+DEV+QUEST;LOADING+SKILLS...;PRESS+START" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=1000&color=C9A227&center=true&vCenter=true&width=700&lines=BRENO+AFONSO;LVL+2+%2F+3+%E2%80%94+ETEC+DEV+QUEST;LOADING+SKILLS...;PRESS+START" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=180&section=header&text=PLAYER%20PROFILE&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2b1b0e,100:0d0d0d&height=180&section=header&text=PLAYER%20PROFILE&fontColor=C9A227&fontSize=46&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 <tr>
 <td width="35%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BrenoAfonso019&show_icons=false&hide_rank=false&theme=radical&bg_color=1a1023&title_color=b57bff&text_color=e0d5f5&border_color=b57bff&hide_title=true" width="100%"/>
+<img src="https://avatars.githubusercontent.com/u/287865478?v=4" width="140"/>
 
 **🎮 CLASSE:** Desenvolvedor de Sistemas
 **📍 SERVIDOR:** Hortolândia, SP — Etec
