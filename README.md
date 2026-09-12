@@ -13,10 +13,10 @@
 <table align="center">
 <tr>
 <td width="35%" align="center" valign="top">
-<br>
+<br><br><br><br><br>
 
-**🎮 CLASSE:** Desenvolvedor de Sistemas
-**📍 SERVIDOR:** Hortolândia, SP — Etec
+**🎮 CLASSE:** Desenvolvedor de Sistemas <br>
+**📍 SERVIDOR:** Hortolândia, SP — Etec <br>
 **⭐ NÍVEL:** 2 de 3 (Ensino Técnico)
 
 </td>
