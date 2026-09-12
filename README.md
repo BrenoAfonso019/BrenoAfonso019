@@ -14,8 +14,6 @@
 <tr>
 <td width="35%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/BrenoAfonso019/BrenoAfonso019/main/assets/class-crest.svg" width="150"/>
-
 **🎮 CLASSE:** Desenvolvedor de Sistemas
 **📍 SERVIDOR:** Hortolândia, SP — Etec
 **⭐ NÍVEL:** 2 de 3 (Ensino Técnico)
