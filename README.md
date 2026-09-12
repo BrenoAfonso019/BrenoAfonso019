@@ -114,7 +114,7 @@ Cadastro de times e jogadores, registro de resultados e geração automática de
 
 ### 🏅 CONQUISTAS DESBLOQUEADAS
 
-<img src="https://github-profile-trophy.vercel.app/?username=BrenoAfonso019&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BrenoAfonso019&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -137,11 +137,5 @@ Cadastro de times e jogadores, registro de resultados e geração automática de
 <a href="https://linktr.ee/BrwMc"><img src="https://img.shields.io/badge/Linktree-1a1023?style=for-the-badge&logo=linktree&logoColor=43E55E"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Discord-1a1023?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Roblox-1a1023?style=for-the-badge&logo=roblox&logoColor=ffffff"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-**"GG WP — próxima fase carregando..."**
 
 </div>
