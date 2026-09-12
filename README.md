@@ -54,7 +54,7 @@ anterior foi deletado, essa é a nova run. 🔄
 
 <div align="center">
 
-| Front-End | Back-End / Dados | Ferramentas |
+| Web Development | Back-End / Dados | Ferramentas |
 |:---:|:---:|:---:|
 | ![HTML5](https://img.shields.io/badge/HTML5-1a1023?style=for-the-badge&logo=html5&logoColor=E34F26) | ![Python](https://img.shields.io/badge/Python-1a1023?style=for-the-badge&logo=python&logoColor=3776AB) | ![VSCode](https://img.shields.io/badge/VS_Code-1a1023?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) |
 | ![CSS3](https://img.shields.io/badge/CSS3-1a1023?style=for-the-badge&logo=css3&logoColor=1572B6) | ![C#](https://img.shields.io/badge/C%23-1a1023?style=for-the-badge&logo=csharp&logoColor=239120) | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-1a1023?style=for-the-badge&logo=visualstudio&logoColor=5C2D91) |
