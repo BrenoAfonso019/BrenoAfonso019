@@ -19,7 +19,6 @@
 **🎮 CLASSE:** Desenvolvedor de Sistemas
 **📍 SERVIDOR:** Hortolândia, SP — Etec
 **⭐ NÍVEL:** 2 de 3 (Ensino Técnico)
-**🎯 GUILDA:** RNG / Progression Games
 
 </td>
 <td width="65%" valign="top">
@@ -80,7 +79,7 @@ anterior foi deletado, essa é a nova run. 🔄
 **Tipo:** RPG / Roblox Studio · Luau
 Sistema de RNG com raridades, elementos e inventário. Próximas fases: sorte, auto-roll, mundos, fusão, rebirth e trading.
 
-`XP: ▓▓▓▓▓▓▓▓░░ 80%`
+`XP: ▓▓░░░░░░░░ 15%`
 
 </td>
 <td width="50%" valign="top">
