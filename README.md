@@ -99,13 +99,18 @@ Cadastro de times e jogadores, registro de resultados e geração automática de
 
 ### 📊 STATUS DO JOGADOR
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAfonso019&layout=donut&theme=radical&bg_color=1a1023&title_color=b57bff&text_color=e0d5f5&border_color=b57bff&hide_border=false" height="200"/>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BrenoAfonso019&show_icons=true&theme=radical&bg_color=1a1023&title_color=b57bff&text_color=e0d5f5&icon_color=ff7bd5&border_color=b57bff&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+![Repositórios](https://img.shields.io/github/repos/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=REPOSITÓRIOS&color=2b1b0e)
+![Seguidores](https://img.shields.io/github/followers/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=SEGUIDORES&color=2b1b0e)
+![Estrelas](https://img.shields.io/github/stars/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=ESTRELAS&color=2b1b0e)
+![Atividade](https://img.shields.io/github/commit-activity/y/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=COMMITS%20%2F%20ANO&color=2b1b0e)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrenoAfonso019&bg_color=1a1023&color=b57bff&line=ff7bd5&point=ffffff&area=true&hide_border=true" width="90%"/>
+![Linguagens](https://img.shields.io/github/languages/count/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=LINGUAGENS&color=2b1b0e)
+![Último commit](https://img.shields.io/github/last-commit/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=ÚLTIMO%20COMMIT&color=2b1b0e)
+![Tamanho](https://img.shields.io/github/repo-size/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=TAMANHO&color=2b1b0e)
 
 </div>
 
@@ -115,10 +120,14 @@ Cadastro de times e jogadores, registro de resultados e geração automática de
 
 ### 🏅 CONQUISTAS DESBLOQUEADAS
 
-<img src="https://github-profile-trophy.vercel.app/?username=BrenoAfonso019&theme=onedark&no-frame=true&no-bg=true&row=1&column=7"/>
+<div align="center">
+
+![Commits](https://img.shields.io/github/commit-activity/t/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=COMMITS%20TOTAIS&color=2b1b0e)
+![Issues](https://img.shields.io/github/issues/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=ISSUES&color=2b1b0e)
+![Pull Requests](https://img.shields.io/github/issues-pr/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=PULL%20REQUESTS&color=2b1b0e)
+![Watchers](https://img.shields.io/github/watchers/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=WATCHERS&color=2b1b0e)
 
 </div>
-
 
 ---
 
