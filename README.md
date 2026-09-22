@@ -106,8 +106,6 @@ Cadastro de times e jogadores, registro de resultados e geração automática de
 
 </div>
 
----
-
 <div align="center">
 
 ### 🏅 CONQUISTAS DESBLOQUEADAS
