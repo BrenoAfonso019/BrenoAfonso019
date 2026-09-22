@@ -99,20 +99,26 @@ Cadastro de times e jogadores, registro de resultados e geração automática de
 
 ### 📊 STATUS DO JOGADOR
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAfonso019&layout=donut&theme=radical&bg_color=1a1023&title_color=b57bff&text_color=e0d5f5&border_color=b57bff" height="200"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BrenoAfonso019&theme=radical&background=1a1023&stroke=b57bff&ring=b57bff&fire=ff7bd5&currStreakLabel=ffffff&border=b57bff" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAfonso019&layout=donut&theme=radical&bg_color=1a1023&title_color=b57bff&text_color=e0d5f5&border_color=b57bff&hide_border=false" height="200"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrenoAfonso019&theme=react-dark&bg_color=1a1023&color=b57bff&line=ff7bd5&point=ffffff&hide_border=true" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BrenoAfonso019&show_icons=true&theme=radical&bg_color=1a1023&title_color=b57bff&text_color=e0d5f5&icon_color=ff7bd5&border_color=b57bff&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrenoAfonso019&bg_color=1a1023&color=b57bff&line=ff7bd5&point=ffffff&area=true&hide_border=true" width="90%"/>
 
 </div>
+
+---
 
 <div align="center">
 
 ### 🏅 CONQUISTAS DESBLOQUEADAS
 
-<img src="https://github-profile-trophy.vercel.app/?username=BrenoAfonso019&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BrenoAfonso019&theme=onedark&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
+
 
 ---
 
