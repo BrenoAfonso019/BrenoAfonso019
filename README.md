@@ -101,16 +101,14 @@ Cadastro de times e jogadores, registro de resultados e geração automática de
 
 <div align="center">
 
-![Repositórios](https://img.shields.io/github/repos/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=REPOSITÓRIOS&color=2b1b0e)
-![Seguidores](https://img.shields.io/github/followers/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=SEGUIDORES&color=2b1b0e)
-![Estrelas](https://img.shields.io/github/stars/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=ESTRELAS&color=2b1b0e)
-![Atividade](https://img.shields.io/github/commit-activity/y/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=COMMITS%20%2F%20ANO&color=2b1b0e)
+![Quests](https://img.shields.io/github/repos/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=QUESTS%20CRIADAS&color=2b1b0e)
+![Stars](https://img.shields.io/github/stars/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=XP%20RECEBIDO&color=2b1b0e)
+![Followers](https://img.shields.io/github/followers/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=PARTY%20MEMBERS&color=2b1b0e)
 
 <br/>
 
-![Linguagens](https://img.shields.io/github/languages/count/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=LINGUAGENS&color=2b1b0e)
-![Último commit](https://img.shields.io/github/last-commit/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=ÚLTIMO%20COMMIT&color=2b1b0e)
-![Tamanho](https://img.shields.io/github/repo-size/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=TAMANHO&color=2b1b0e)
+![Last Commit](https://img.shields.io/github/last-commit/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=ÚLTIMA%20QUEST&color=2b1b0e)
+![Save Size](https://img.shields.io/github/repo-size/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=SAVE%20SIZE&color=2b1b0e)
 
 </div>
 
@@ -122,16 +120,21 @@ Cadastro de times e jogadores, registro de resultados e geração automática de
 
 <div align="center">
 
-![Commits](https://img.shields.io/github/commit-activity/t/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=COMMITS%20TOTAIS&color=2b1b0e)
-![Issues](https://img.shields.io/github/issues/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=ISSUES&color=2b1b0e)
-![Pull Requests](https://img.shields.io/github/issues-pr/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=PULL%20REQUESTS&color=2b1b0e)
-![Watchers](https://img.shields.io/github/watchers/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=WATCHERS&color=2b1b0e)
+![Commits](https://img.shields.io/github/commit-activity/t/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=COMBATES%20REGISTRADOS&color=2b1b0e)
+![Issues](https://img.shields.io/github/issues/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=DESAFIOS%20ABERTOS&color=2b1b0e)
+![Pull Requests](https://img.shields.io/github/issues-pr/BrenoAfonso019/BrenoAfonso019?style=for-the-badge&logo=github&logoColor=white&label=UPGRADES&color=2b1b0e)
+
+<br/><br/>
+
+`🎓 ETEC DEV` &nbsp; `🏀 BASKETBALL PLAYER` &nbsp; `🎤 FREESTYLE MC`
+
+<br/>
+
+`🎮 GAME DEV` &nbsp; `⚙️ SYSTEMS DEV` &nbsp; `🐍 PYTHON TRAINER`
 
 </div>
 
 ---
-
-<div align="center">
 
 ### 🐍 REGISTRO DE ATIVIDADE
 
